@@ -1,0 +1,9 @@
+    ==============================
+        -----CONTROLS-----
+    ==============================
+
+        Acceleration: Up Arrow Key
+        Break:        Down Arrow Key
+        Right:        Right Arrow Key
+        Left:         Left Arrow Key
+        Shoot:        Space Key
