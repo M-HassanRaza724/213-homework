@@ -1,0 +1,14 @@
+F:\CS\2nd semester\OOPL\week1\Functions\function_and_file\bin\Debug\net8.0\function_and_file.exe
+F:\CS\2nd semester\OOPL\week1\Functions\function_and_file\bin\Debug\net8.0\function_and_file.deps.json
+F:\CS\2nd semester\OOPL\week1\Functions\function_and_file\bin\Debug\net8.0\function_and_file.runtimeconfig.json
+F:\CS\2nd semester\OOPL\week1\Functions\function_and_file\bin\Debug\net8.0\function_and_file.dll
+F:\CS\2nd semester\OOPL\week1\Functions\function_and_file\bin\Debug\net8.0\function_and_file.pdb
+F:\CS\2nd semester\OOPL\week1\Functions\function_and_file\obj\Debug\net8.0\function_and_file.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS\2nd semester\OOPL\week1\Functions\function_and_file\obj\Debug\net8.0\function_and_file.AssemblyInfoInputs.cache
+F:\CS\2nd semester\OOPL\week1\Functions\function_and_file\obj\Debug\net8.0\function_and_file.AssemblyInfo.cs
+F:\CS\2nd semester\OOPL\week1\Functions\function_and_file\obj\Debug\net8.0\function_and_file.csproj.CoreCompileInputs.cache
+F:\CS\2nd semester\OOPL\week1\Functions\function_and_file\obj\Debug\net8.0\function_and_file.dll
+F:\CS\2nd semester\OOPL\week1\Functions\function_and_file\obj\Debug\net8.0\refint\function_and_file.dll
+F:\CS\2nd semester\OOPL\week1\Functions\function_and_file\obj\Debug\net8.0\function_and_file.pdb
+F:\CS\2nd semester\OOPL\week1\Functions\function_and_file\obj\Debug\net8.0\function_and_file.genruntimeconfig.cache
+F:\CS\2nd semester\OOPL\week1\Functions\function_and_file\obj\Debug\net8.0\ref\function_and_file.dll

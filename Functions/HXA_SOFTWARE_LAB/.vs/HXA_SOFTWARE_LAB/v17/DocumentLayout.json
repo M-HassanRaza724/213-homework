@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CS\\2nd semester\\OOPL\\week1\\Functions\\HXA_SOFTWARE_LAB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38134B66-CDF8-4447-8D6D-59C9CBFAB91A}|HXA_SOFTWARE_LAB.csproj|f:\\cs\\2nd semester\\oopl\\week1\\functions\\hxa_software_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38134B66-CDF8-4447-8D6D-59C9CBFAB91A}|HXA_SOFTWARE_LAB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CS\\2nd semester\\OOPL\\week1\\Functions\\HXA_SOFTWARE_LAB\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\CS\\2nd semester\\OOPL\\week1\\Functions\\HXA_SOFTWARE_LAB\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:40:50.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

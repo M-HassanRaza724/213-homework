@@ -1,0 +1,14 @@
+F:\CS\2nd semester\OOPL\week1\loops\loops\obj\Debug\net8.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS\2nd semester\OOPL\week1\loops\loops\obj\Debug\net8.0\loops.AssemblyInfoInputs.cache
+F:\CS\2nd semester\OOPL\week1\loops\loops\obj\Debug\net8.0\loops.AssemblyInfo.cs
+F:\CS\2nd semester\OOPL\week1\loops\loops\obj\Debug\net8.0\loops.csproj.CoreCompileInputs.cache
+F:\CS\2nd semester\OOPL\week1\loops\loops\bin\Debug\net8.0\loops.exe
+F:\CS\2nd semester\OOPL\week1\loops\loops\bin\Debug\net8.0\loops.deps.json
+F:\CS\2nd semester\OOPL\week1\loops\loops\bin\Debug\net8.0\loops.runtimeconfig.json
+F:\CS\2nd semester\OOPL\week1\loops\loops\bin\Debug\net8.0\loops.dll
+F:\CS\2nd semester\OOPL\week1\loops\loops\bin\Debug\net8.0\loops.pdb
+F:\CS\2nd semester\OOPL\week1\loops\loops\obj\Debug\net8.0\loops.dll
+F:\CS\2nd semester\OOPL\week1\loops\loops\obj\Debug\net8.0\refint\loops.dll
+F:\CS\2nd semester\OOPL\week1\loops\loops\obj\Debug\net8.0\loops.pdb
+F:\CS\2nd semester\OOPL\week1\loops\loops\obj\Debug\net8.0\loops.genruntimeconfig.cache
+F:\CS\2nd semester\OOPL\week1\loops\loops\obj\Debug\net8.0\ref\loops.dll
